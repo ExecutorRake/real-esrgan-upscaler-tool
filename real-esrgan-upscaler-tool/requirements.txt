@@ -1,0 +1,5 @@
+PyQt5>=5.15
+opencv-python>=4.5
+numpy>=1.21
+basicsr>=1.4.2
+realesrgan>=0.3.0
